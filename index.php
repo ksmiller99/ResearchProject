@@ -23,7 +23,7 @@ catch(PDOException $e)
     </head>
     <body>
         <?php
-        echo('Hello PHP! from CafeDroid!');
+        echo('Hello PHP! from CafeDroid! And Git!');
         ?>
     </body>
 </html>
